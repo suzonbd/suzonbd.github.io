@@ -1,0 +1,56 @@
+.navbar {
+  background: #f4a622; }
+
+.navbar-default .navbar-nav > li > a {
+  color: white; }
+
+.navbar-default .navbar-nav > li > a:hover {
+  color: white;
+  background-color: #4abcdd; }
+
+.dp-box h1 span {
+  border-bottom: 1px dashed #151843; }
+
+.dp {
+  border: 1px solid #151843;
+  background: #eee; }
+
+#bb-first-page {
+  background: #f54f36; }
+
+.first-page-right {
+  color: #fff; }
+
+.first-page-left {
+  background: #666699;
+  color: #151843; }
+
+.page-heading {
+  border-bottom: 1px dashed #666699; }
+
+.content-block {
+  ; }
+
+.education h2 {
+  border-bottom: 1px solid #e3e3e3; }
+
+.portfolio-item {
+  border: 1px solid #e3e3e3;
+  margin-bottom: 30px;
+  background: #CFD8FF; }
+
+.panel-default > .panel-heading {
+  background-color: #CFD8FF; }
+
+#contact-map img {
+  border: 1px solid #e3e3e3; }
+
+.bb-custom-wrapper > nav a {
+  background: #151843;
+  color: #fff; }
+
+.slide-out-div {
+  background: #fff;
+  border: #151843 1px solid; }
+
+/*# sourceMappingURL=kimberly.css.map */

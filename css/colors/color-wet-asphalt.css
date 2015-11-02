@@ -1,0 +1,70 @@
+a { color: #3C546C; }
+
+a:hover { color:#2F4255;}
+
+#open-nav {
+   background: none repeat scroll 0 0 #3C546C;
+   color: #FFFFFF;
+}
+#navs li :hover {
+    color: #FFFFFF;
+}
+.outline{
+    border:2px solid #2F4255;
+} 
+.outline:hover {
+    background-color:#2F4255;
+    color:#FFF;
+}
+.parallax .border{
+    background: none repeat scroll 0 0 #2F4255;
+}
+
+.border {
+    background: none repeat scroll 0 0 #2F4255;
+}
+
+.skill li span {
+    background-color: #2F4255;
+}
+
+.service-item:hover:before {
+    border-color:#FFFFFF #FFFFFF #4e4e4e #4e4e4e; 
+}
+.service-item:hover{
+    background: #2F4255;
+    color: #FFFFFF;
+}
+
+#filters li a:hover{
+    background-color: #2F4255;
+}
+#options li a.selected{
+    background-color: #2F4255;
+}
+
+.item-overlay{
+    background-color: #2F4255;
+}
+.price-pack:hover .package-price {
+    background: none repeat scroll 0 0 #2F4255;
+}
+.blog-quote{
+    background-color: #3C546C;
+}
+.blog-quote:hover{
+    background-color: #2F4255;
+    color: #FFFFFF;
+}
+.blog-quote p{
+    color: #FFFFFF;
+}
+.btn{
+    background-color: #3C546C;
+}
+.btn:hover,.btn:focus{
+    background-color: #2F4255;
+}
+.get_in li i{
+    background: none repeat scroll 0 0 #2F4255;
+}

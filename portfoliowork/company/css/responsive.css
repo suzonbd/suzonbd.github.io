@@ -1,0 +1,153 @@
+/* Medium Layout: 1280px. */
+@media only screen and (min-width: 992px) and (max-width: 1200px) { 
+  
+   .is-sticky .mainmenu ul.nav.navbar-nav li a, .is-sticky .social-ico a,.mainmenu ul.nav.navbar-nav li a ,.social-ico a{
+    
+    padding: 22px 10px;
+    font-size: 20px;   
+} 
+ .contact-area {
+    
+    margin-top: -20px;
+}   
+
+}
+/* Tablet Layout: 768px. */
+@media only screen and (min-width: 768px) and (max-width: 991px) { 
+  .logo {
+      text-align: center;
+}
+    .mainmenu ul.nav.navbar-nav {
+    font-size: 17px;
+}
+    .header-text h2{
+       font-size: 50px;
+       padding-top: 60px;    
+    }
+    
+}
+.dish {
+	text-align: center;
+}
+.testimonial-bg {
+	min-height: 750px;
+}
+.container{
+    padding-right: 30px;
+    padding-left: 15px;
+}
+
+}
+/* Mobile Layout: 320px. */
+@media only screen and (max-width: 767px) { 
+      .navbar-toggle .icon-bar{
+      background-color: white;
+    }
+      .logo {
+      text-align: center;
+     }
+     .navbar-toggle {
+	float: none;
+    margin: 0;
+    border: 1px solid white; 
+}
+    .mainmenu {
+	padding-right: 0;
+    text-align: center;
+    padding-top: 20px;
+    position: relative; 
+    padding-bottom: 20px;    
+}
+.mobile-menu ul.nav.navbar-nav {
+   background: black;
+   text-align: center;    
+}
+    .mobile-menu ul.nav.navbar-nav li{
+        display: block;
+    
+    }
+    .mobile-menu ul.nav.navbar-nav li a,.is-sticky .mobile-menu ul.nav.navbar-nav li a 
+	
+{
+        padding: 10px;
+        border-bottom: 1px solid gray;
+        margin: 0;
+    }
+    .is-sticky .mainmenu ul.nav.navbar-nav li a, .is-sticky .social-ico a {
+    color: white;
+    padding: 10px;;
+}
+    .container {
+    padding-right: 30px;
+    padding-left: 30px;
+    margin-right: auto;
+    margin-left: auto;
+}
+    .testimonial-list {
+      font-size: 20px;
+    }
+    .contact-form{
+       padding-left: 20px;
+       padding-right: 20px;
+    }
+}
+/* Wide Mobile Layout: 480px. */
+@media only screen and (min-width: 300px) and (max-width: 767px) { 
+   .navbar-toggle .icon-bar{
+      background-color: white;
+    }
+      .logo {
+      text-align: center;
+     }
+     .navbar-toggle {
+	float: none;
+    margin: 0;
+    border: 1px solid white; 
+}
+    .mainmenu {
+	padding-right: 0;
+    text-align: center;
+    padding-top: 20px;
+    position: relative; 
+    padding-bottom: 20px;    
+}
+.mobile-menu ul.nav.navbar-nav {
+   background: black;
+   text-align: center;    
+}
+    .mobile-menu ul.nav.navbar-nav li{
+        display: block;
+    
+    }
+    .mobile-menu ul.nav.navbar-nav li a{
+        padding: 10px;
+        border-bottom: 1px solid gray;
+    
+    }
+     .is-sticky .mainmenu ul.nav.navbar-nav li a, .is-sticky .social-ico a {
+    color: white;
+    padding: 10px;;
+}
+    .header-text h2{
+      font-size: 45px;
+      padding-top: 30px;       
+    }
+    .container {
+    padding-right: 30px;
+    padding-left: 30px;
+    margin-right: auto;
+    margin-left: auto;
+}
+    .testimonial-bg{
+      min-height: 850px;
+    
+    }
+    .testimonial-list {
+      font-size: 20px;
+    }
+    
+     .contact-form{
+       padding-left: 20px;
+       padding-right: 20px;
+    }
+}
